@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d3e1273a14efd348a0c66de8fd9907f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isObjectiveComplete: {instanceID: 0}
+  - questSystem: {fileID: 11400000, guid: 243c4ef85fb5bdd4d84e654cb503c2ed, type: 2}
+  - OnFlagChanged: {fileID: 11400000, guid: 4f4ba68d7ec54994eb8b2d26955a6d59, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
